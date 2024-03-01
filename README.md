@@ -1,0 +1,1 @@
+In this Project I performed an Exploratory Data Analysis (EDA) using SQL. I explore and analyze the supermarket data to uncover hidden insights and trends through visualization. I performed Univariate, Bivariate and Multivariate anlysis Using MySQL and EXCEL for visualization.
